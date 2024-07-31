@@ -1,0 +1,10 @@
+.texto03 {
+  color: rgb(140, 240, 223);
+  font-size: x-large;
+  font-style: italic;
+  text-align: right;
+}
+
+b:hover {
+  background-color: rgb(201, 119, 119);
+}
